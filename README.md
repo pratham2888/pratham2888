@@ -1,4 +1,4 @@
-<a href="https://pratham2888.github.io/pratham-portfolio/"><img src="./banner.svg" width="100%" alt="Pratham Bhanushali — Engineering, Product, Data. Code with purpose. Build with perspective." /></a>
+<a href="https://pratham2888.github.io/pratham-portfolio/"><img src="./banner.svg" width="100%" alt="Pratham Bhanushali — Engineering, Product, Data. Built with code. Guided by good questions." /></a>
 
 <p align="center"><strong>I connect engineering, analytics, and product thinking to make complex things useful.</strong></p>
 
@@ -8,6 +8,10 @@
 <a href="https://www.linkedin.com/newsletters/from-pilot-to-prod-7448904844536582144"><img src="./newsletter.svg" width="24%" alt="From Pilot to Prod — 500+ subscribers" /></a>
 <a href="mailto:pb3225@stern.nyu.edu"><img src="./email.svg" width="24%" alt="Email Pratham" /></a>
 </p>
+
+<a href="https://pratham2888.github.io/pratham-portfolio/"><img src="./impact.svg" width="100%" alt="50+ stakeholder voices at NYU Stern · 20% performance improvement at SpeedBox · 500+ newsletter subscribers" /></a>
+
+[**Visit Pratham Portfolio →**](https://pratham2888.github.io/pratham-portfolio/) &nbsp; · &nbsp; [**Open the website repository →**](https://github.com/pratham2888/pratham-portfolio)
 
 ## The person behind the code
 
@@ -19,7 +23,7 @@ I like the work between disciplines: understanding what someone actually needs, 
 | :--- | :--- | :--- |
 | React, Redux, REST APIs, Python, Java, C++ | SQL, Pandas, Tableau, D3.js, Qualtrics | User research, product roadmaps, prioritization, OKRs / KPIs |
 
-## Work with a reason to exist
+## Selected experience
 
 | Context | My contribution |
 | :--- | :--- |
@@ -34,6 +38,8 @@ I like the work between disciplines: understanding what someone actually needs, 
 - [**C++ Chatbot**](https://github.com/pratham2888/C-Chatbot) · C++ repository
 - [**Task Manager**](https://github.com/pratham2888/Task-Manage-cpp) · C++ repository
 - [**Interactive portfolio**](https://github.com/pratham2888/pratham-portfolio) · The source behind my 3D website
+
+[**Explore the full work stories →**](https://pratham2888.github.io/pratham-portfolio/#work)
 
 ## From Pilot to Prod
 
