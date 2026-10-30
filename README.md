@@ -35,7 +35,7 @@ I like the work between disciplines: understanding what someone actually needs, 
 ## Explore the code
 
 - [**AI Resume Screener**](https://github.com/pratham2888/AI-Resume-Screener) · Python repository
-- [**C++ Chatbot**](https://github.com/pratham2888/C-Chatbot) · C++ repository
+- [**CandidAI**](https://github.com/pratham2888/CandidAI) · Multi-agent interview integrity with human review · React / Node.js
 - [**Task Manager**](https://github.com/pratham2888/Task-Manage-cpp) · C++ repository
 - [**Interactive portfolio**](https://github.com/pratham2888/pratham-portfolio) · The source behind my 3D website
 
