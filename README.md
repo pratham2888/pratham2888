@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://pratham2888.github.io/pratham-portfolio/"><img src="./portfolio.svg" width="24%" alt="Explore my portfolio" /></a>
-<a href="https://www.linkedin.com/in/pratham-bhanushali-11ab77294"><img src="./linkedin.svg" width="24%" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/pratham96328"><img src="./linkedin.svg" width="24%" alt="Connect on LinkedIn" /></a>
 <a href="https://www.linkedin.com/newsletters/from-pilot-to-prod-7448904844536582144"><img src="./newsletter.svg" width="24%" alt="From Pilot to Prod — 500+ subscribers" /></a>
 <a href="mailto:pb3225@stern.nyu.edu"><img src="./email.svg" width="24%" alt="Email Pratham" /></a>
 </p>
